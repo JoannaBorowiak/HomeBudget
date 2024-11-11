@@ -167,3 +167,4 @@ C:\Users\jboro\OneDrive\Pulpit\Nauka\KalkulatorBudzetowy\obj\Debug\net8.0\Kalkul
 C:\Users\jboro\OneDrive\Pulpit\Nauka\KalkulatorBudzetowy\obj\Debug\net8.0\KalkulatorBudzetowy.genruntimeconfig.cache
 C:\Users\jboro\OneDrive\Pulpit\Nauka\KalkulatorBudzetowy\obj\Debug\net8.0\ref\KalkulatorBudzetowy.dll
 C:\Users\jboro\OneDrive\Pulpit\Nauka\KalkulatorBudzetowy\bin\Debug\net8.0\KalkulatorBudzetowy.staticwebassets.runtime.json
+C:\Users\jboro\OneDrive\Pulpit\Nauka\KalkulatorBudzetowy\obj\Debug\net8.0\KalkulatorBudzetowy.sourcelink.json

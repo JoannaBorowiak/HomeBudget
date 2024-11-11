@@ -44,7 +44,10 @@ using (var scope = app.Services.CreateScope())
             new Kategoria { Nazwa = "Transport" },
             new Kategoria { Nazwa = "Rozrywka" },
             new Kategoria { Nazwa = "Rachunki" },
-            new Kategoria { Nazwa = "Inne" }
+            new Kategoria { Nazwa = "Inne" },
+            new Kategoria { Nazwa = "Wypłata" },
+            new Kategoria { Nazwa = "Premia" }
+            
         );
         context.SaveChanges();
     }
