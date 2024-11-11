@@ -1,6 +1,0 @@
-@KalkulatorBudzetowy_HostAddress = http://localhost:5085
-
-GET {{KalkulatorBudzetowy_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
